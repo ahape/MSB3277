@@ -32,7 +32,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SharedDependency, Version=1.0.0.1, Culture=neutral, PublicKeyToken=3e1fed751cb61585, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\SharedDependency\Versions\1.0.0.1\SharedDependency.dll</HintPath>
     </Reference>
     <Reference Include="System" />
