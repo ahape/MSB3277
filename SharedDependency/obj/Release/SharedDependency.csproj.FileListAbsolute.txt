@@ -1,0 +1,5 @@
+C:\Users\brightmetrics\source\repos\SharedDependency\bin\Release\SharedDependency.dll
+C:\Users\brightmetrics\source\repos\SharedDependency\bin\Release\SharedDependency.pdb
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Release\SharedDependency.csproj.CoreCompileInputs.cache
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Release\SharedDependency.dll
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Release\SharedDependency.pdb

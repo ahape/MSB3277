@@ -1,0 +1,16 @@
+C:\Users\brightmetrics\source\repos\LibraryB\bin\Debug\LibraryB.dll
+C:\Users\brightmetrics\source\repos\LibraryB\bin\Debug\LibraryB.pdb
+C:\Users\brightmetrics\source\repos\LibraryB\bin\Debug\SharedDependency.dll
+C:\Users\brightmetrics\source\repos\LibraryB\obj\Debug\LibraryB.csproj.AssemblyReference.cache
+C:\Users\brightmetrics\source\repos\LibraryB\obj\Debug\LibraryB.csproj.CoreCompileInputs.cache
+C:\Users\brightmetrics\source\repos\LibraryB\obj\Debug\LibraryB.csproj.CopyComplete
+C:\Users\brightmetrics\source\repos\LibraryB\obj\Debug\LibraryB.dll
+C:\Users\brightmetrics\source\repos\LibraryB\obj\Debug\LibraryB.pdb
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\bin\Debug\LibraryB.dll
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\bin\Debug\LibraryB.pdb
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\bin\Debug\SharedDependency.dll
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\obj\Debug\LibraryB.csproj.AssemblyReference.cache
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\obj\Debug\LibraryB.csproj.CoreCompileInputs.cache
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\obj\Debug\LibraryB.csproj.CopyComplete
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\obj\Debug\LibraryB.dll
+C:\Users\brightmetrics\Desktop\MSB3277\LibraryB\obj\Debug\LibraryB.pdb

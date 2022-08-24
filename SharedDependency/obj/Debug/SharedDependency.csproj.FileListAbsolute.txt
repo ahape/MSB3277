@@ -1,0 +1,10 @@
+C:\Users\brightmetrics\source\repos\SharedDependency\bin\Debug\SharedDependency.dll
+C:\Users\brightmetrics\source\repos\SharedDependency\bin\Debug\SharedDependency.pdb
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Debug\SharedDependency.csproj.CoreCompileInputs.cache
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Debug\SharedDependency.dll
+C:\Users\brightmetrics\source\repos\SharedDependency\obj\Debug\SharedDependency.pdb
+C:\Users\brightmetrics\Desktop\MSB3277\SharedDependency\bin\Debug\SharedDependency.dll
+C:\Users\brightmetrics\Desktop\MSB3277\SharedDependency\bin\Debug\SharedDependency.pdb
+C:\Users\brightmetrics\Desktop\MSB3277\SharedDependency\obj\Debug\SharedDependency.csproj.CoreCompileInputs.cache
+C:\Users\brightmetrics\Desktop\MSB3277\SharedDependency\obj\Debug\SharedDependency.dll
+C:\Users\brightmetrics\Desktop\MSB3277\SharedDependency\obj\Debug\SharedDependency.pdb
