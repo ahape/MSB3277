@@ -23,4 +23,4 @@ warning MSB3277:             LibraryB [C:\Users\Me\source\repos\ExampleProgram\E
 
 ![image](https://user-images.githubusercontent.com/8726792/186794177-0cd378b1-8014-41be-a6c8-a4019916bc3e.png)
 
-**LibraryA** and **LibraryB** _transiently_ reference **SharedDependency**. Meanwhile **ExampleProgram** makes a hard reference to `v1.0.0.0`.
+**LibraryA** and **LibraryB** make a transient reference to **SharedDependency** `v1.0.0.1`. Meanwhile **ExampleProgram** (e.g., `.csproj`) makes a hard reference to `v1.0.0.0`.
