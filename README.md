@@ -1,4 +1,4 @@
-### Repository with simple MSB3277 example
+### Repository with simple [MSB3277](https://learn.microsoft.com/en-us/visualstudio/msbuild/errors/msb3277) example
 
 Build warnings:
 
@@ -19,6 +19,8 @@ warning MSB3277:           Project file item includes which caused reference "C:
 warning MSB3277:             LibraryB [C:\Users\Me\source\repos\ExampleProgram\ExampleProgram.csproj]			
 ```
 
-Visualized:
+**Visualized**
 
 ![image](https://user-images.githubusercontent.com/8726792/186794177-0cd378b1-8014-41be-a6c8-a4019916bc3e.png)
+
+**LibraryA** and **LibraryB** _transiently_ reference **SharedDependency**. Meanwhile **ExampleProgram** makes a hard reference to `v1.0.0.0`.
